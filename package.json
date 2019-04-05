@@ -4,7 +4,9 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "npm run clean && tsc",
+    "clean": "rm -rf dist",
+    "sls": "sls",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aleksi Pekkala",
@@ -22,12 +24,14 @@
     "prettier": "^1.16.4",
     "serverless": "^1.40.0",
     "serverless-google-cloudfunctions": "*",
+    "serverless-plugin-scripts": "^1.0.2",
     "tslint": "^5.15.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.4.1"
   },
   "dependencies": {
     "@google-cloud/storage": "^2.4.3",
+    "express": "^4.16.4",
     "sharp": "^0.22.0"
   }
 }

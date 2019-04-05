@@ -1,6 +1,8 @@
 {
   "extends": ["tslint:latest", "tslint-config-prettier"],
   "rules": {
+    "interface-name": false,
+    "no-console": {"severity": "warning"},
     "object-literal-sort-keys": false
   }
 }
