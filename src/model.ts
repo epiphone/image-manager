@@ -6,7 +6,7 @@ export interface CloudStorageObject {
   metadata: Record<string, string>
   metageneration: number
   selfLink: string
-  size: number
+  size: string
   timeCreated: string
   updated: string
 }
@@ -28,7 +28,7 @@ export interface Context {
   timestamp: string
 
   /** The type of the event. For example: "google.pubsub.topic.publish". */
-  eventType: string
+  eventType: string // 'google.storage.object.finalize'
 
   /** The resource that emitted the event. */
   resource: string
