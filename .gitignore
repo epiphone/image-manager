@@ -63,3 +63,5 @@ typings/
 .cache
 .serverless
 /dist
+src/**/*.zip
+src/**/*.js

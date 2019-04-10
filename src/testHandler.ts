@@ -1,7 +1,5 @@
 import { Request, Response } from 'express'
-// import { Storage } from '@google-cloud/storage'
 
-export default function http(request: Request, response: Response) {
-  // const storage = new Storage()
+export function testHandler(request: Request, response: Response) {
   response.status(200).send('Hello World!')
 }
