@@ -2,39 +2,31 @@ import { Storage } from '@google-cloud/storage'
 import fs from 'fs'
 import os from 'os'
 import path from 'path'
-import sharp from 'sharp'
 import { CloudStorageObject, Context } from '../model'
+import resize from '../resize'
 
 const gcs = new Storage()
 const BUCKET_THUMBNAILS = gcs.bucket('imgmgr-thumbnails')
+const SIZE = 32
 
-async function resizer(data: CloudStorageObject, context: Context) {
+export async function resizer(data: CloudStorageObject, context: Context) {
   const tempDir = path.join(os.tmpdir(), 'thumbs')
   if (!fs.existsSync(tempDir)) {
     fs.mkdirSync(tempDir)
   }
-  const tmpFilePath = path.join(tempDir, 'source.png')
+  const tmpFilePath = path.join(tempDir, data.name)
 
   await gcs
     .bucket(data.bucket)
     .file(data.name)
     .download({ destination: tmpFilePath })
 
-  const sizes = [32, 64]
-  const uploadPromises = sizes.map(async size => {
-    const thumbName = `thumb@${size}_${data.name}`
-    const thumbPath = path.join(tempDir, thumbName)
+  const thumbName = `thumb@${SIZE}_${data.name}`
+  const thumbPath = path.join(tempDir, thumbName)
 
-    await sharp(tmpFilePath)
-      .resize(size, size)
-      .toFile(thumbPath)
+  await resize(tmpFilePath, thumbPath, SIZE, SIZE)
 
-    return BUCKET_THUMBNAILS.upload(thumbPath, {
-      destination: thumbName,
-    })
+  return BUCKET_THUMBNAILS.upload(thumbPath, {
+    destination: thumbName,
   })
-
-  return Promise.all(uploadPromises)
 }
-
-module.exports = { resizer }
