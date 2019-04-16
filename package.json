@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "repository": "https://github.com/epiphone/image-manager",
   "description": "",
+  "main": "dist/app.js",
   "scripts": {
     "build": "npm run typecheck && npm run clean && npm run resizer:build && npm run sqiper:build && npm run resizer:zip && npm run sqiper:zip",
     "resizer:build": "parcel build -t node -d src/resizer --no-source-maps src/resizer/handler.ts",
@@ -20,6 +21,11 @@
     "labeler:push": "gsutil cp src/labeler/labeler.zip gs://imgmgr-functions",
     "labeler:deploy": "gcloud beta functions deploy labeler --runtime nodejs10 --trigger-resource imgmgr-images --trigger-event google.storage.object.finalize --region us-east1 --source gs://imgmgr-functions/labeler.zip --service-account serverless@imgmgr.iam.gserviceaccount.com --entry-point labeler",
     "labeler:update": "yarn clean && yarn typecheck && yarn labeler:build && yarn labeler:zip && yarn labeler:push && yarn labeler:deploy",
+    "server:build": "tsc",
+    "server:watch": "tsc -w",
+    "server:serve": "nodemon ./dist/app.js",
+    "server:start": "node dist/app.js",
+    "server:dev": "yarn server:build && npm-run-all -p server:watch server:serve",
     "clean": "rm -f src/**/*.zip",
     "lint": "tslint -p tsconfig.json",
     "sls": "sls",
@@ -36,8 +42,11 @@
   },
   "devDependencies": {
     "@types/express": "^4.16.1",
+    "@types/multer": "^1.3.7",
     "@types/node": "^11.13.0",
     "@types/sharp": "^0.22.1",
+    "nodemon": "^1.18.11",
+    "npm-run-all": "^4.1.5",
     "parcel-bundler": "^1.12.3",
     "prettier": "^1.16.4",
     "tslint": "^5.15.0",
@@ -48,6 +57,7 @@
     "@google-cloud/storage": "^2.4.3",
     "@google-cloud/vision": "^0.25.0",
     "express": "^4.16.4",
+    "multer": "^1.4.1",
     "sharp": "^0.22.0",
     "sqip": "^0.3.3"
   }
