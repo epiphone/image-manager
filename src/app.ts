@@ -1,11 +1,19 @@
 import { Storage } from '@google-cloud/storage'
 import express from 'express'
+import fs from 'fs'
 import multer from 'multer'
+import os from 'os'
 import path from 'path'
+import { getBucketFileLabels } from './label'
+import resize from './resize'
+import sqip from './sqip'
 
 const gcs = new Storage()
 const BUCKET_IMAGES = gcs.bucket('imgmgr-server-images')
 const BUCKET_THUMBNAILS = gcs.bucket('imgmgr-server-thumbnails')
+const BUCKET_SQIPS = gcs.bucket('imgmgr-server-sqips')
+const RESIZE_SIZE = 32
+const SQIP_PRIMITIVES = 6
 
 const ALLOWED_EXTS = ['.png', '.jpg', '.jpeg', '.gif']
 const MAX_BYTES = 1024 * 1024 * 10
@@ -39,22 +47,64 @@ app.get('/', (req, res) => {
 
 app.post('/', uploads.single('image'), (req, res, next) => {
   console.log('Received file upload', req.file.filename)
-  BUCKET_IMAGES.upload(
-    req.file.path,
-    {
-      destination: req.file.filename,
-      metadata: {
-        metadata: { Labels: 'todo' },
-      },
-    },
-    (error, result) => {
+
+  const labelPromise = BUCKET_IMAGES.upload(req.file.path, {
+    destination: req.file.filename,
+  })
+    .then(([result]) => {
+      console.log('Uploaded original image to Cloud Storage')
+      return Promise.all([
+        result,
+        getBucketFileLabels({ bucket: result!.bucket.name, name: result!.name }),
+      ])
+    })
+    .then(([result, labels]) => {
+      console.log('Got labels', labels)
+      return result.setMetadata({ metadata: { Labels: labels } }, {})
+    })
+
+  const thumbName = `thumb${RESIZE_SIZE}@${req.file.filename}`
+  const thumbPath = path.join(path.dirname(req.file.path), thumbName)
+  const resizePromise = resize(req.file.path, thumbPath, RESIZE_SIZE, RESIZE_SIZE).then(() => {
+    console.log('Resized image')
+    return BUCKET_THUMBNAILS.upload(thumbPath, {
+      destination: thumbName,
+    })
+  })
+
+  const sqipName = `sqip@${SQIP_PRIMITIVES}@${req.file.filename.split('.')[0]}.svg`
+  const sqipPath = path.join(path.dirname(req.file.path), sqipName)
+  const sqipPromise = new Promise((resolve, reject) => {
+    const { final_svg } = sqip(req.file.path, SQIP_PRIMITIVES)
+    console.log('Generated SQIP')
+    fs.writeFile(sqipPath, final_svg, error => {
       if (error) {
-        return next(error)
+        console.error('Writing SQIP file failed:', error)
+        reject(error)
       }
-      console.log('Uploaded to Cloud Storage', result!.metadata)
-      res.json({ status: 'ok', metadata: result!.metadata })
-    },
-  )
+      BUCKET_SQIPS.upload(sqipPath, {
+        destination: sqipName,
+      }).then(([sqipFile]) => {
+        console.log('Uploaded SQIP to Cloud Storage')
+        resolve(sqipFile)
+      })
+    })
+  })
+
+  Promise.all([labelPromise, resizePromise, sqipPromise])
+    .then(([[metadata]]) => {
+      res.json({ status: 'ok', metadata })
+      const tempFilePaths = [req.file.path, thumbPath, sqipPath]
+      tempFilePaths.forEach(tempFilePath => {
+        fs.unlink(tempFilePath, rmError => {
+          if (rmError) {
+            console.error(rmError)
+          }
+          console.log('Deleted local file', tempFilePath)
+        })
+      })
+    })
+    .catch(error => next(error))
 })
 
 app.use((error: Error, req: express.Request, res: express.Response, next: express.NextFunction) => {
