@@ -2,7 +2,6 @@ import { Storage } from '@google-cloud/storage'
 import express from 'express'
 import fs from 'fs'
 import multer from 'multer'
-import os from 'os'
 import path from 'path'
 import { getBucketFileLabels } from './label'
 import resize from './resize'
@@ -13,7 +12,7 @@ const BUCKET_IMAGES = gcs.bucket('imgmgr-server-images')
 const BUCKET_THUMBNAILS = gcs.bucket('imgmgr-server-thumbnails')
 const BUCKET_SQIPS = gcs.bucket('imgmgr-server-sqips')
 const RESIZE_SIZE = 32
-const SQIP_PRIMITIVES = 6
+const SQIP_PRIMITIVES = 9
 
 const ALLOWED_EXTS = ['.png', '.jpg', '.jpeg', '.gif']
 const MAX_BYTES = 1024 * 1024 * 10
@@ -23,7 +22,7 @@ const storage = multer.diskStorage({
     cb(null, '/tmp')
   },
   filename(req, file, cb) {
-    cb(null, file.fieldname + '-' + Date.now() + path.extname(file.originalname))
+    cb(null, file.fieldname + '-' + new Date().toISOString() + path.extname(file.originalname))
   },
 })
 
@@ -63,7 +62,7 @@ app.post('/', uploads.single('image'), (req, res, next) => {
       return result.setMetadata({ metadata: { Labels: labels } }, {})
     })
 
-  const thumbName = `thumb${RESIZE_SIZE}@${req.file.filename}`
+  const thumbName = `thumb${RESIZE_SIZE}-${req.file.filename}`
   const thumbPath = path.join(path.dirname(req.file.path), thumbName)
   const resizePromise = resize(req.file.path, thumbPath, RESIZE_SIZE, RESIZE_SIZE).then(() => {
     console.log('Resized image')
@@ -72,7 +71,7 @@ app.post('/', uploads.single('image'), (req, res, next) => {
     })
   })
 
-  const sqipName = `sqip@${SQIP_PRIMITIVES}@${req.file.filename.split('.')[0]}.svg`
+  const sqipName = `sqip${SQIP_PRIMITIVES}-${path.parse(req.file.filename).name}.svg`
   const sqipPath = path.join(path.dirname(req.file.path), sqipName)
   const sqipPromise = new Promise((resolve, reject) => {
     const { final_svg } = sqip(req.file.path, SQIP_PRIMITIVES)
