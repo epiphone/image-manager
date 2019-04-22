@@ -1,0 +1,1382 @@
+2019-04-22 18:03:18 | INFO | 883
+2019-04-22 18:03:18 | INFO | 2542
+2019-04-22 18:03:19 | INFO | 910
+2019-04-22 18:03:20 | INFO | 887
+2019-04-22 18:03:21 | INFO | 855
+2019-04-22 18:03:22 | INFO | 1316
+2019-04-22 18:03:23 | INFO | 1430
+2019-04-22 18:03:23 | INFO | 1973
+2019-04-22 18:03:23 | INFO | 1810
+2019-04-22 18:03:23 | INFO | 1721
+2019-04-22 18:03:24 | INFO | 1652
+2019-04-22 18:03:24 | INFO | 1767
+2019-04-22 18:03:25 | INFO | 1539
+2019-04-22 18:03:26 | INFO | 1825
+2019-04-22 18:03:27 | INFO | 2265
+2019-04-22 18:03:27 | INFO | 2071
+2019-04-22 18:03:27 | INFO | 1378
+2019-04-22 18:03:27 | INFO | 1354
+2019-04-22 18:03:27 | INFO | 1385
+2019-04-22 18:03:28 | INFO | 1918
+2019-04-22 18:03:28 | INFO | 1925
+2019-04-22 18:03:29 | INFO | 2670
+2019-04-22 18:03:30 | INFO | 2582
+2019-04-22 18:03:30 | INFO | 2600
+2019-04-22 18:03:30 | INFO | 2254
+2019-04-22 18:03:31 | INFO | 2553
+2019-04-22 18:03:31 | INFO | 2780
+2019-04-22 18:03:33 | INFO | 4418
+2019-04-22 18:03:33 | INFO | 3425
+2019-04-22 18:03:34 | INFO | 3750
+2019-04-22 18:03:34 | INFO | 3847
+2019-04-22 18:03:34 | INFO | 3851
+2019-04-22 18:03:34 | INFO | 3796
+2019-04-22 18:03:34 | INFO | 3149
+2019-04-22 18:03:37 | INFO | 6709
+2019-04-22 18:03:37 | INFO | 6088
+2019-04-22 18:03:37 | INFO | 5076
+2019-04-22 18:03:38 | INFO | 4534
+2019-04-22 18:03:38 | INFO | 4861
+2019-04-22 18:03:38 | INFO | 5095
+2019-04-22 18:03:38 | INFO | 6112
+2019-04-22 18:03:38 | INFO | 4860
+2019-04-22 18:03:38 | INFO | 6574
+2019-04-22 18:03:38 | INFO | 4407
+2019-04-22 18:03:38 | INFO | 4410
+2019-04-22 18:03:42 | INFO | 7840
+2019-04-22 18:03:43 | INFO | 6859
+2019-04-22 18:03:43 | INFO | 6446
+2019-04-22 18:03:43 | INFO | 6439
+2019-04-22 18:03:43 | INFO | 7864
+2019-04-22 18:03:43 | INFO | 5863
+2019-04-22 18:03:43 | INFO | 5878
+2019-04-22 18:03:43 | INFO | 5907
+2019-04-22 18:03:43 | INFO | 5921
+2019-04-22 18:03:43 | INFO | 5910
+2019-04-22 18:03:43 | INFO | 5936
+2019-04-22 18:03:43 | INFO | 5446
+2019-04-22 18:03:48 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:03:48 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:03:48 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:03:48 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:03:48 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:03:49 | INFO | 8896
+2019-04-22 18:03:49 | INFO | 8973
+2019-04-22 18:03:49 | INFO | 9976
+2019-04-22 18:03:49 | INFO | 8596
+2019-04-22 18:03:49 | INFO | 8642
+2019-04-22 18:03:49 | INFO | 8679
+2019-04-22 18:03:49 | INFO | 8331
+2019-04-22 18:03:49 | INFO | 8316
+2019-04-22 18:03:49 | INFO | 8028
+2019-04-22 18:03:49 | INFO | 8087
+2019-04-22 18:03:49 | INFO | 8244
+2019-04-22 18:03:49 | INFO | 8367
+2019-04-22 18:03:49 | INFO | 8470
+2019-04-22 18:03:49 | INFO | 8363
+2019-04-22 18:03:49 | INFO | 7706
+2019-04-22 18:03:50 | INFO | 7013
+2019-04-22 18:03:54 | INFO | 10424
+2019-04-22 18:03:54 | INFO | 8561
+2019-04-22 18:03:54 | INFO | 8532
+2019-04-22 18:03:54 | INFO | 8522
+2019-04-22 18:03:54 | INFO | 9123
+2019-04-22 18:03:54 | INFO | 8170
+2019-04-22 18:03:54 | INFO | 9612
+2019-04-22 18:03:54 | INFO | 8547
+2019-04-22 18:03:54 | INFO | 8624
+2019-04-22 18:03:54 | INFO | 6633
+2019-04-22 18:03:54 | INFO | 8614
+2019-04-22 18:03:54 | INFO | 7681
+2019-04-22 18:03:55 | INFO | 6531
+2019-04-22 18:04:04 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:04 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:04 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:04 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:04 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:04 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:04 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:04 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:05 | INFO | 13084
+2019-04-22 18:04:05 | INFO | 13519
+2019-04-22 18:04:05 | INFO | 13501
+2019-04-22 18:04:05 | INFO | 13538
+2019-04-22 18:04:05 | INFO | 14585
+2019-04-22 18:04:05 | INFO | 13083
+2019-04-22 18:04:05 | INFO | 14539
+2019-04-22 18:04:05 | INFO | 13540
+2019-04-22 18:04:05 | INFO | 14600
+2019-04-22 18:04:05 | INFO | 13168
+2019-04-22 18:04:05 | INFO | 14606
+2019-04-22 18:04:05 | INFO | 13122
+2019-04-22 18:04:05 | INFO | 12858
+2019-04-22 18:04:05 | INFO | 13111
+2019-04-22 18:04:05 | INFO | 12565
+2019-04-22 18:04:05 | INFO | 14628
+2019-04-22 18:04:05 | INFO | 14624
+2019-04-22 18:04:05 | INFO | 13109
+2019-04-22 18:04:05 | INFO | 13184
+2019-04-22 18:04:05 | INFO | 12573
+2019-04-22 18:04:05 | INFO | 13157
+2019-04-22 18:04:05 | INFO | 13169
+2019-04-22 18:04:05 | INFO | 13184
+2019-04-22 18:04:05 | INFO | 13132
+2019-04-22 18:04:06 | INFO | 15912
+2019-04-22 18:04:06 | INFO | 11911
+2019-04-22 18:04:10 | INFO | 15130
+2019-04-22 18:04:12 | INFO | 15206
+2019-04-22 18:04:13 | INFO | 10774
+2019-04-22 18:04:13 | INFO | 8774
+2019-04-22 18:04:13 | INFO | 15369
+2019-04-22 18:04:13 | INFO | 16791
+2019-04-22 18:04:13 | INFO | 9789
+2019-04-22 18:04:13 | INFO | 15253
+2019-04-22 18:04:13 | INFO | 15271
+2019-04-22 18:04:13 | INFO | 11804
+2019-04-22 18:04:13 | INFO | 12809
+2019-04-22 18:04:13 | INFO | 13811
+2019-04-22 18:04:13 | INFO | 15836
+2019-04-22 18:04:13 | INFO | 14844
+2019-04-22 18:04:13 | INFO | 8035
+2019-04-22 18:04:13 | INFO | 15615
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:26 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:28 | INFO | 19421
+2019-04-22 18:04:28 | INFO | 19411
+2019-04-22 18:04:28 | INFO | 19415
+2019-04-22 18:04:28 | INFO | 19388
+2019-04-22 18:04:28 | INFO | 19366
+2019-04-22 18:04:28 | INFO | 19368
+2019-04-22 18:04:28 | INFO | 19371
+2019-04-22 18:04:28 | INFO | 19370
+2019-04-22 18:04:28 | INFO | 19393
+2019-04-22 18:04:28 | INFO | 19403
+2019-04-22 18:04:28 | INFO | 19402
+2019-04-22 18:04:28 | INFO | 19412
+2019-04-22 18:04:28 | INFO | 19406
+2019-04-22 18:04:28 | INFO | 19411
+2019-04-22 18:04:28 | INFO | 19408
+2019-04-22 18:04:28 | INFO | 19414
+2019-04-22 18:04:28 | INFO | 19412
+2019-04-22 18:04:28 | INFO | 19419
+2019-04-22 18:04:28 | INFO | 19428
+2019-04-22 18:04:28 | INFO | 19424
+2019-04-22 18:04:28 | INFO | 19430
+2019-04-22 18:04:28 | INFO | 19432
+2019-04-22 18:04:28 | INFO | 19426
+2019-04-22 18:04:28 | INFO | 19424
+2019-04-22 18:04:28 | INFO | 19112
+2019-04-22 18:04:28 | INFO | 19131
+2019-04-22 18:04:28 | INFO | 22040
+2019-04-22 18:04:28 | INFO | 21064
+2019-04-22 18:04:28 | INFO | 20752
+2019-04-22 18:04:28 | INFO | 20764
+2019-04-22 18:04:28 | INFO | 20772
+2019-04-22 18:04:28 | INFO | 20771
+2019-04-22 18:04:28 | INFO | 20773
+2019-04-22 18:04:28 | INFO | 20777
+2019-04-22 18:04:28 | INFO | 20789
+2019-04-22 18:04:28 | INFO | 20790
+2019-04-22 18:04:28 | INFO | 20119
+2019-04-22 18:04:28 | INFO | 19193
+2019-04-22 18:04:28 | INFO | 18205
+2019-04-22 18:04:28 | INFO | 16715
+2019-04-22 18:04:28 | INFO | 17719
+2019-04-22 18:04:29 | INFO | 16146
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:35 | INFO | 20792
+2019-04-22 18:04:35 | INFO | 18791
+2019-04-22 18:04:35 | INFO | 19793
+2019-04-22 18:04:35 | INFO | 17792
+2019-04-22 18:04:35 | INFO | 16801
+2019-04-22 18:04:35 | INFO | 15801
+2019-04-22 18:04:35 | INFO | 14804
+2019-04-22 18:04:35 | INFO | 12804
+2019-04-22 18:04:35 | INFO | 11802
+2019-04-22 18:04:35 | INFO | 10813
+2019-04-22 18:04:35 | INFO | 9817
+2019-04-22 18:04:35 | INFO | 13893
+2019-04-22 18:04:35 | INFO | 8957
+2019-04-22 18:04:35 | INFO | 8694
+2019-04-22 18:04:35 | INFO | 7711
+2019-04-22 18:04:38 | INFO | 9089
+2019-04-22 18:04:43 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:43 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:43 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:04:46 | INFO | 14085
+2019-04-22 18:04:46 | INFO | 14090
+2019-04-22 18:04:46 | INFO | 13666
+2019-04-22 18:04:46 | INFO | 16755
+2019-04-22 18:04:46 | INFO | 16762
+2019-04-22 18:04:46 | INFO | 16759
+2019-04-22 18:04:46 | INFO | 16786
+2019-04-22 18:04:46 | INFO | 16790
+2019-04-22 18:04:46 | INFO | 16788
+2019-04-22 18:04:46 | INFO | 16888
+2019-04-22 18:04:46 | INFO | 16886
+2019-04-22 18:04:46 | INFO | 16895
+2019-04-22 18:04:46 | INFO | 14215
+2019-04-22 18:04:46 | INFO | 16887
+2019-04-22 18:04:46 | INFO | 16899
+2019-04-22 18:04:46 | INFO | 16896
+2019-04-22 18:04:46 | INFO | 16889
+2019-04-22 18:04:46 | INFO | 16221
+2019-04-22 18:04:46 | INFO | 16905
+2019-04-22 18:04:46 | INFO | 16896
+2019-04-22 18:04:46 | INFO | 15223
+2019-04-22 18:04:46 | INFO | 13222
+2019-04-22 18:04:47 | INFO | 12824
+2019-04-22 18:04:47 | INFO | 11874
+2019-04-22 18:05:06 | INFO | 30498
+2019-04-22 18:05:06 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:06 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:10 | INFO | 32168
+2019-04-22 18:05:10 | INFO | 32164
+2019-04-22 18:05:10 | INFO | 32166
+2019-04-22 18:05:10 | INFO | 32171
+2019-04-22 18:05:10 | INFO | 32283
+2019-04-22 18:05:10 | INFO | 33661
+2019-04-22 18:05:10 | INFO | 32316
+2019-04-22 18:05:10 | INFO | 33677
+2019-04-22 18:05:10 | INFO | 33663
+2019-04-22 18:05:10 | INFO | 33680
+2019-04-22 18:05:10 | INFO | 33664
+2019-04-22 18:05:10 | INFO | 33664
+2019-04-22 18:05:10 | INFO | 33694
+2019-04-22 18:05:10 | INFO | 33677
+2019-04-22 18:05:10 | INFO | 33692
+2019-04-22 18:05:10 | INFO | 33698
+2019-04-22 18:05:10 | INFO | 33704
+2019-04-22 18:05:10 | INFO | 33708
+2019-04-22 18:05:10 | INFO | 33689
+2019-04-22 18:05:10 | INFO | 33700
+2019-04-22 18:05:10 | INFO | 33703
+2019-04-22 18:05:10 | INFO | 33746
+2019-04-22 18:05:10 | INFO | 32216
+2019-04-22 18:05:10 | INFO | 33730
+2019-04-22 18:05:10 | INFO | 32436
+2019-04-22 18:05:10 | INFO | 33748
+2019-04-22 18:05:10 | INFO | 33788
+2019-04-22 18:05:10 | INFO | 33794
+2019-04-22 18:05:10 | INFO | 32491
+2019-04-22 18:05:10 | INFO | 32404
+2019-04-22 18:05:10 | INFO | 33822
+2019-04-22 18:05:10 | INFO | 32340
+2019-04-22 18:05:10 | INFO | 33799
+2019-04-22 18:05:10 | INFO | 32502
+2019-04-22 18:05:10 | INFO | 32510
+2019-04-22 18:05:10 | INFO | 33857
+2019-04-22 18:05:10 | INFO | 33880
+2019-04-22 18:05:10 | INFO | 33838
+2019-04-22 18:05:10 | INFO | 33841
+2019-04-22 18:05:10 | INFO | 33849
+2019-04-22 18:05:10 | INFO | 32538
+2019-04-22 18:05:10 | INFO | 33873
+2019-04-22 18:05:10 | INFO | 33890
+2019-04-22 18:05:10 | INFO | 33908
+2019-04-22 18:05:10 | INFO | 33890
+2019-04-22 18:05:10 | INFO | 33917
+2019-04-22 18:05:10 | INFO | 33904
+2019-04-22 18:05:10 | INFO | 33931
+2019-04-22 18:05:10 | INFO | 33901
+2019-04-22 18:05:10 | INFO | 33383
+2019-04-22 18:05:10 | INFO | 33921
+2019-04-22 18:05:10 | INFO | 33937
+2019-04-22 18:05:10 | INFO | 30399
+2019-04-22 18:05:10 | INFO | 31402
+2019-04-22 18:05:10 | INFO | 33918
+2019-04-22 18:05:10 | INFO | 33946
+2019-04-22 18:05:10 | INFO | 29412
+2019-04-22 18:05:10 | INFO | 28456
+2019-04-22 18:05:10 | INFO | 27456
+2019-04-22 18:05:12 | INFO | 28567
+2019-04-22 18:05:12 | INFO | 27569
+2019-04-22 18:05:13 | INFO | 26765
+2019-04-22 18:05:13 | INFO | 26495
+2019-04-22 18:05:13 | INFO | 26501
+2019-04-22 18:05:13 | INFO | 26501
+2019-04-22 18:05:14 | INFO | 26972
+2019-04-22 18:05:33 | INFO | 44900
+2019-04-22 18:05:33 | INFO | 44893
+2019-04-22 18:05:33 | INFO | 44888
+2019-04-22 18:05:33 | INFO | 44618
+2019-04-22 18:05:34 | INFO | 29841
+2019-04-22 18:05:34 | INFO | 28838
+2019-04-22 18:05:34 | INFO | 44645
+2019-04-22 18:05:34 | INFO | 44793
+2019-04-22 18:05:34 | INFO | 44664
+2019-04-22 18:05:34 | INFO | 44865
+2019-04-22 18:05:34 | INFO | 42885
+2019-04-22 18:05:34 | INFO | 44800
+2019-04-22 18:05:34 | INFO | 44678
+2019-04-22 18:05:34 | INFO | 30883
+2019-04-22 18:05:34 | INFO | 37893
+2019-04-22 18:05:34 | INFO | 40896
+2019-04-22 18:05:34 | INFO | 35893
+2019-04-22 18:05:34 | INFO | 44688
+2019-04-22 18:05:34 | INFO | 44816
+2019-04-22 18:05:34 | INFO | 44686
+2019-04-22 18:05:34 | INFO | 44694
+2019-04-22 18:05:34 | INFO | 44694
+2019-04-22 18:05:34 | INFO | 44706
+2019-04-22 18:05:34 | INFO | 45909
+2019-04-22 18:05:34 | INFO | 43909
+2019-04-22 18:05:34 | INFO | 36903
+2019-04-22 18:05:34 | INFO | 38906
+2019-04-22 18:05:34 | INFO | 33902
+2019-04-22 18:05:34 | INFO | 32902
+2019-04-22 18:05:34 | INFO | 44830
+2019-04-22 18:05:34 | INFO | 44762
+2019-04-22 18:05:34 | INFO | 27946
+2019-04-22 18:05:34 | INFO | 44763
+2019-04-22 18:05:34 | INFO | 44759
+2019-04-22 18:05:34 | INFO | 44759
+2019-04-22 18:05:34 | INFO | 34972
+2019-04-22 18:05:34 | INFO | 44918
+2019-04-22 18:05:34 | INFO | 41981
+2019-04-22 18:05:34 | INFO | 39980
+2019-04-22 18:05:34 | INFO | 26421
+2019-04-22 18:05:34 | INFO | 27424
+2019-04-22 18:05:34 | INFO | 45308
+2019-04-22 18:05:34 | INFO | 32503
+2019-04-22 18:05:34 | INFO | 25124
+2019-04-22 18:05:35 | INFO | 26045
+2019-04-22 18:05:35 | INFO | 25582
+2019-04-22 18:05:35 | INFO | 25536
+2019-04-22 18:05:35 | INFO | 25068
+2019-04-22 18:05:35 | INFO | 24171
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:41 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:43 | INFO | 31659
+2019-04-22 18:05:49 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:05:57 | INFO | 44405
+2019-04-22 18:05:57 | INFO | 44404
+2019-04-22 18:05:57 | INFO | 44403
+2019-04-22 18:05:58 | INFO | 44798
+2019-04-22 18:05:58 | INFO | 44785
+2019-04-22 18:05:58 | INFO | 44784
+2019-04-22 18:05:58 | INFO | 44941
+2019-04-22 18:05:58 | INFO | 44795
+2019-04-22 18:05:58 | INFO | 44800
+2019-04-22 18:05:58 | INFO | 44877
+2019-04-22 18:05:58 | INFO | 44900
+2019-04-22 18:05:58 | INFO | 45072
+2019-04-22 18:05:58 | INFO | 44981
+2019-04-22 18:05:58 | INFO | 44897
+2019-04-22 18:05:58 | INFO | 44914
+2019-04-22 18:05:58 | INFO | 44892
+2019-04-22 18:05:58 | INFO | 44912
+2019-04-22 18:05:58 | INFO | 44916
+2019-04-22 18:05:58 | INFO | 44930
+2019-04-22 18:05:58 | INFO | 44952
+2019-04-22 18:05:58 | INFO | 44943
+2019-04-22 18:05:58 | INFO | 44914
+2019-04-22 18:05:58 | INFO | 44943
+2019-04-22 18:05:58 | INFO | 44992
+2019-04-22 18:05:58 | INFO | 44991
+2019-04-22 18:05:58 | INFO | 45014
+2019-04-22 18:05:58 | INFO | 45000
+2019-04-22 18:05:58 | INFO | 45035
+2019-04-22 18:05:58 | INFO | 44972
+2019-04-22 18:05:58 | INFO | 44982
+2019-04-22 18:05:58 | INFO | 44995
+2019-04-22 18:05:58 | INFO | 44984
+2019-04-22 18:05:58 | INFO | 44978
+2019-04-22 18:05:58 | INFO | 44978
+2019-04-22 18:05:58 | INFO | 44989
+2019-04-22 18:05:58 | INFO | 45018
+2019-04-22 18:05:58 | INFO | 45031
+2019-04-22 18:05:58 | INFO | 45024
+2019-04-22 18:05:58 | INFO | 45020
+2019-04-22 18:05:58 | INFO | 44987
+2019-04-22 18:05:58 | INFO | 45065
+2019-04-22 18:05:58 | INFO | 45008
+2019-04-22 18:05:58 | INFO | 45080
+2019-04-22 18:06:00 | INFO | 46611
+2019-04-22 18:06:00 | INFO | 46620
+2019-04-22 18:06:00 | INFO | 46625
+2019-04-22 18:06:00 | INFO | 46779
+2019-04-22 18:06:00 | INFO | 46753
+2019-04-22 18:06:00 | INFO | 46781
+2019-04-22 18:06:01 | INFO | 47486
+2019-04-22 18:06:01 | INFO | 47504
+2019-04-22 18:06:01 | INFO | 47504
+2019-04-22 18:06:01 | INFO | 47499
+2019-04-22 18:06:01 | INFO | 47496
+2019-04-22 18:06:01 | INFO | 47497
+2019-04-22 18:06:01 | INFO | 48032
+2019-04-22 18:06:01 | INFO | 47992
+2019-04-22 18:06:01 | INFO | 48047
+2019-04-22 18:06:01 | INFO | 47994
+2019-04-22 18:06:01 | INFO | 48043
+2019-04-22 18:06:08 | INFO | 53055
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:08 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:09 | INFO | 54029
+2019-04-22 18:06:09 | INFO | 54036
+2019-04-22 18:06:10 | INFO | 54010
+2019-04-22 18:06:11 | INFO | 55475
+2019-04-22 18:06:11 | INFO | 55474
+2019-04-22 18:06:11 | INFO | 55473
+2019-04-22 18:06:11 | INFO | 54681
+2019-04-22 18:06:12 | INFO | 54825
+2019-04-22 18:06:12 | INFO | 55827
+2019-04-22 18:06:12 | INFO | 51825
+2019-04-22 18:06:12 | INFO | 53828
+2019-04-22 18:06:12 | INFO | 44821
+2019-04-22 18:06:12 | INFO | 52829
+2019-04-22 18:06:12 | INFO | 50829
+2019-04-22 18:06:12 | INFO | 48828
+2019-04-22 18:06:12 | INFO | 42826
+2019-04-22 18:06:12 | INFO | 47854
+2019-04-22 18:06:12 | INFO | 46859
+2019-04-22 18:06:12 | INFO | 43859
+2019-04-22 18:06:12 | INFO | 45867
+2019-04-22 18:06:12 | INFO | 49873
+2019-04-22 18:06:12 | INFO | 41348
+2019-04-22 18:06:12 | INFO | 42418
+2019-04-22 18:06:12 | INFO | 40640
+2019-04-22 18:06:12 | INFO | 39645
+2019-04-22 18:06:13 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:06:13 | INFO | 39623
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:19 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:34 | INFO | 59595
+2019-04-22 18:06:40 | INFO | 63383
+2019-04-22 18:06:40 | INFO | 63163
+2019-04-22 18:06:40 | INFO | 63170
+2019-04-22 18:06:40 | INFO | 63106
+2019-04-22 18:06:40 | INFO | 63103
+2019-04-22 18:06:40 | INFO | 63043
+2019-04-22 18:06:40 | INFO | 62579
+2019-04-22 18:06:40 | INFO | 62047
+2019-04-22 18:06:40 | INFO | 62005
+2019-04-22 18:06:40 | INFO | 61057
+2019-04-22 18:06:40 | INFO | 60058
+2019-04-22 18:06:40 | INFO | 59058
+2019-04-22 18:06:40 | INFO | 63195
+2019-04-22 18:06:40 | INFO | 63267
+2019-04-22 18:06:40 | INFO | 63264
+2019-04-22 18:06:40 | INFO | 64154
+2019-04-22 18:06:40 | INFO | 58417
+2019-04-22 18:06:40 | INFO | 57431
+2019-04-22 18:06:40 | INFO | 56431
+2019-04-22 18:06:40 | INFO | 55897
+2019-04-22 18:06:40 | INFO | 55896
+2019-04-22 18:06:40 | INFO | 55892
+2019-04-22 18:06:40 | INFO | 55883
+2019-04-22 18:06:40 | INFO | 55901
+2019-04-22 18:06:40 | INFO | 55886
+2019-04-22 18:06:40 | INFO | 55902
+2019-04-22 18:06:40 | INFO | 55881
+2019-04-22 18:06:40 | INFO | 55893
+2019-04-22 18:06:40 | INFO | 55926
+2019-04-22 18:06:40 | INFO | 55913
+2019-04-22 18:06:40 | INFO | 55928
+2019-04-22 18:06:40 | INFO | 55903
+2019-04-22 18:06:40 | INFO | 55911
+2019-04-22 18:06:40 | INFO | 55922
+2019-04-22 18:06:40 | INFO | 55926
+2019-04-22 18:06:40 | INFO | 55953
+2019-04-22 18:06:40 | INFO | 55945
+2019-04-22 18:06:40 | INFO | 55939
+2019-04-22 18:06:40 | INFO | 55956
+2019-04-22 18:06:40 | INFO | 55933
+2019-04-22 18:06:40 | INFO | 55944
+2019-04-22 18:06:40 | INFO | 55966
+2019-04-22 18:06:40 | INFO | 55970
+2019-04-22 18:06:40 | INFO | 55972
+2019-04-22 18:06:40 | INFO | 55950
+2019-04-22 18:06:40 | INFO | 55960
+2019-04-22 18:06:40 | INFO | 55991
+2019-04-22 18:06:40 | INFO | 55964
+2019-04-22 18:06:40 | INFO | 55989
+2019-04-22 18:06:40 | INFO | 55994
+2019-04-22 18:06:40 | INFO | 55974
+2019-04-22 18:06:40 | INFO | 55981
+2019-04-22 18:06:40 | INFO | 55989
+2019-04-22 18:06:40 | INFO | 56001
+2019-04-22 18:06:40 | INFO | 55990
+2019-04-22 18:06:40 | INFO | 55567
+2019-04-22 18:06:41 | INFO | 56102
+2019-04-22 18:06:41 | INFO | 56129
+2019-04-22 18:06:41 | INFO | 56149
+2019-04-22 18:06:41 | INFO | 52783
+2019-04-22 18:06:41 | INFO | 54788
+2019-04-22 18:06:41 | INFO | 53791
+2019-04-22 18:06:41 | INFO | 51833
+2019-04-22 18:06:41 | INFO | 50841
+2019-04-22 18:06:43 | INFO | 52325
+2019-04-22 18:06:43 | INFO | 51326
+2019-04-22 18:06:43 | INFO | 51109
+2019-04-22 18:06:43 | INFO | 49438
+2019-04-22 18:06:43 | INFO | 50450
+2019-04-22 18:06:54 | INFO | 59573
+2019-04-22 18:06:54 | INFO | 58574
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:06:58 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:00 | INFO | 61056
+2019-04-22 18:07:03 | INFO | 63349
+2019-04-22 18:07:04 | INFO | 63373
+2019-04-22 18:07:04 | INFO | 63398
+2019-04-22 18:07:04 | INFO | 63684
+2019-04-22 18:07:05 | INFO | 63774
+2019-04-22 18:07:05 | INFO | 63772
+2019-04-22 18:07:05 | INFO | 63769
+2019-04-22 18:07:05 | INFO | 63723
+2019-04-22 18:07:05 | INFO | 63731
+2019-04-22 18:07:05 | INFO | 63724
+2019-04-22 18:07:05 | INFO | 63715
+2019-04-22 18:07:05 | INFO | 63702
+2019-04-22 18:07:05 | INFO | 63698
+2019-04-22 18:07:05 | INFO | 63558
+2019-04-22 18:07:05 | INFO | 63551
+2019-04-22 18:07:05 | INFO | 63521
+2019-04-22 18:07:05 | INFO | 63495
+2019-04-22 18:07:05 | INFO | 63474
+2019-04-22 18:07:05 | INFO | 63438
+2019-04-22 18:07:05 | INFO | 63438
+2019-04-22 18:07:05 | INFO | 63436
+2019-04-22 18:07:05 | INFO | 63471
+2019-04-22 18:07:05 | INFO | 64384
+2019-04-22 18:07:05 | INFO | 64372
+2019-04-22 18:07:05 | INFO | 64473
+2019-04-22 18:07:05 | INFO | 64373
+2019-04-22 18:07:05 | INFO | 64224
+2019-04-22 18:07:05 | INFO | 64141
+2019-04-22 18:07:05 | INFO | 64141
+2019-04-22 18:07:05 | INFO | 64132
+2019-04-22 18:07:05 | INFO | 64455
+2019-04-22 18:07:05 | INFO | 64530
+2019-04-22 18:07:05 | INFO | 64216
+2019-04-22 18:07:05 | INFO | 64447
+2019-04-22 18:07:05 | INFO | 64217
+2019-04-22 18:07:05 | INFO | 64488
+2019-04-22 18:07:05 | INFO | 64190
+2019-04-22 18:07:05 | INFO | 64564
+2019-04-22 18:07:05 | INFO | 64268
+2019-04-22 18:07:05 | INFO | 64322
+2019-04-22 18:07:05 | INFO | 64548
+2019-04-22 18:07:05 | INFO | 64307
+2019-04-22 18:07:05 | INFO | 64543
+2019-04-22 18:07:05 | INFO | 64309
+2019-04-22 18:07:06 | INFO | 65037
+2019-04-22 18:07:07 | INFO | 64634
+2019-04-22 18:07:07 | INFO | 64607
+2019-04-22 18:07:07 | INFO | 64489
+2019-04-22 18:07:07 | INFO | 64484
+2019-04-22 18:07:12 | INFO | 68921
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:12 | INFO | 64933
+2019-04-22 18:07:12 | INFO | 68939
+2019-04-22 18:07:12 | INFO | 69944
+2019-04-22 18:07:12 | INFO | 68897
+2019-04-22 18:07:12 | INFO | 67943
+2019-04-22 18:07:12 | INFO | 63941
+2019-04-22 18:07:12 | INFO | 66947
+2019-04-22 18:07:12 | INFO | 65947
+2019-04-22 18:07:12 | INFO | 63224
+2019-04-22 18:07:13 | INFO | 62906
+2019-04-22 18:07:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:07:14 | INFO | 63148
+2019-04-22 18:07:15 | INFO | 63719
+2019-04-22 18:07:15 | INFO | 63735
+2019-04-22 18:07:15 | INFO | 63728
+2019-04-22 18:07:15 | INFO | 63748
+2019-04-22 18:07:15 | INFO | 63778
+2019-04-22 18:07:15 | INFO | 63765
+2019-04-22 18:07:15 | INFO | 63762
+2019-04-22 18:07:15 | INFO | 63761
+2019-04-22 18:07:15 | INFO | 63773
+2019-04-22 18:07:15 | INFO | 63765
+2019-04-22 18:07:15 | INFO | 63772
+2019-04-22 18:07:15 | INFO | 63931
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:20 | INFO | 67062
+2019-04-22 18:07:33 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:36 | INFO | 82209
+2019-04-22 18:07:36 | INFO | 81391
+2019-04-22 18:07:36 | INFO | 81385
+2019-04-22 18:07:36 | INFO | 81211
+2019-04-22 18:07:36 | INFO | 80211
+2019-04-22 18:07:36 | INFO | 79208
+2019-04-22 18:07:36 | INFO | 78211
+2019-04-22 18:07:37 | INFO | 80684
+2019-04-22 18:07:37 | INFO | 77693
+2019-04-22 18:07:37 | INFO | 81869
+2019-04-22 18:07:37 | INFO | 76898
+2019-04-22 18:07:37 | INFO | 75898
+2019-04-22 18:07:37 | INFO | 74905
+2019-04-22 18:07:37 | INFO | 74345
+2019-04-22 18:07:37 | INFO | 74344
+2019-04-22 18:07:37 | INFO | 74337
+2019-04-22 18:07:37 | INFO | 74357
+2019-04-22 18:07:37 | INFO | 74359
+2019-04-22 18:07:37 | INFO | 74362
+2019-04-22 18:07:37 | INFO | 74375
+2019-04-22 18:07:37 | INFO | 74374
+2019-04-22 18:07:37 | INFO | 74378
+2019-04-22 18:07:37 | INFO | 74378
+2019-04-22 18:07:37 | INFO | 74385
+2019-04-22 18:07:37 | INFO | 74379
+2019-04-22 18:07:37 | INFO | 74382
+2019-04-22 18:07:37 | INFO | 74391
+2019-04-22 18:07:37 | INFO | 74386
+2019-04-22 18:07:37 | INFO | 74392
+2019-04-22 18:07:37 | INFO | 74415
+2019-04-22 18:07:37 | INFO | 74414
+2019-04-22 18:07:37 | INFO | 74417
+2019-04-22 18:07:37 | INFO | 74417
+2019-04-22 18:07:37 | INFO | 74004
+2019-04-22 18:07:37 | INFO | 73011
+2019-04-22 18:07:37 | INFO | 72011
+2019-04-22 18:07:37 | INFO | 71017
+2019-04-22 18:07:37 | INFO | 70017
+2019-04-22 18:07:37 | INFO | 69017
+2019-04-22 18:07:37 | INFO | 68021
+2019-04-22 18:07:37 | INFO | 67040
+2019-04-22 18:07:37 | INFO | 66041
+2019-04-22 18:07:44 | INFO | 66909
+2019-04-22 18:07:44 | INFO | 66365
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:49 | INFO | 71298
+2019-04-22 18:07:49 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:49 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:51 | INFO | 71870
+2019-04-22 18:07:55 | INFO | 74992
+2019-04-22 18:07:55 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:07:57 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:07:58 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:06 | INFO | 85183
+2019-04-22 18:08:06 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:09 | INFO | 86085
+2019-04-22 18:08:11 | INFO | 88007
+2019-04-22 18:08:11 | INFO | 88009
+2019-04-22 18:08:11 | INFO | 88007
+2019-04-22 18:08:11 | INFO | 88005
+2019-04-22 18:08:11 | INFO | 87999
+2019-04-22 18:08:11 | INFO | 88001
+2019-04-22 18:08:11 | INFO | 87933
+2019-04-22 18:08:11 | INFO | 87930
+2019-04-22 18:08:11 | INFO | 87911
+2019-04-22 18:08:11 | INFO | 87644
+2019-04-22 18:08:11 | INFO | 87632
+2019-04-22 18:08:11 | INFO | 87630
+2019-04-22 18:08:11 | INFO | 87627
+2019-04-22 18:08:11 | INFO | 88059
+2019-04-22 18:08:11 | INFO | 88053
+2019-04-22 18:08:11 | INFO | 88071
+2019-04-22 18:08:11 | INFO | 87771
+2019-04-22 18:08:11 | INFO | 87731
+2019-04-22 18:08:11 | INFO | 87721
+2019-04-22 18:08:11 | INFO | 88173
+2019-04-22 18:08:12 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:12 | INFO | 86409
+2019-04-22 18:08:12 | INFO | 79405
+2019-04-22 18:08:12 | INFO | 89417
+2019-04-22 18:08:12 | INFO | 77410
+2019-04-22 18:08:12 | INFO | 74810
+2019-04-22 18:08:12 | INFO | 74808
+2019-04-22 18:08:12 | INFO | 74806
+2019-04-22 18:08:12 | INFO | 74806
+2019-04-22 18:08:12 | INFO | 89013
+2019-04-22 18:08:12 | INFO | 74907
+2019-04-22 18:08:12 | INFO | 89042
+2019-04-22 18:08:12 | INFO | 87444
+2019-04-22 18:08:12 | INFO | 89451
+2019-04-22 18:08:12 | INFO | 89041
+2019-04-22 18:08:12 | INFO | 80442
+2019-04-22 18:08:12 | INFO | 89013
+2019-04-22 18:08:12 | INFO | 89060
+2019-04-22 18:08:12 | INFO | 89043
+2019-04-22 18:08:12 | INFO | 89370
+2019-04-22 18:08:12 | INFO | 89049
+2019-04-22 18:08:12 | INFO | 90454
+2019-04-22 18:08:12 | INFO | 89050
+2019-04-22 18:08:12 | INFO | 89006
+2019-04-22 18:08:12 | INFO | 89048
+2019-04-22 18:08:12 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:12 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:13 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:14 | INFO | 87483
+2019-04-22 18:08:14 | INFO | 76873
+2019-04-22 18:08:14 | INFO | 76876
+2019-04-22 18:08:15 | ERROR | 500 Server Error: Internal Server Error for url: http://10.142.0.3/
+2019-04-22 18:08:15 | ERROR | 500 Server Error: Internal Server Error for url: http://10.142.0.3/
+2019-04-22 18:08:15 | INFO | 77029
+2019-04-22 18:08:15 | INFO | 77357
+2019-04-22 18:08:15 | INFO | 77354
+2019-04-22 18:08:15 | INFO | 77363
+2019-04-22 18:08:15 | INFO | 77420
+2019-04-22 18:08:15 | INFO | 87042
+2019-04-22 18:08:15 | INFO | 78036
+2019-04-22 18:08:15 | INFO | 77418
+2019-04-22 18:08:15 | INFO | 77418
+2019-04-22 18:08:15 | INFO | 77427
+2019-04-22 18:08:15 | INFO | 77364
+2019-04-22 18:08:15 | INFO | 77368
+2019-04-22 18:08:15 | INFO | 77373
+2019-04-22 18:08:15 | INFO | 77365
+2019-04-22 18:08:15 | INFO | 77362
+2019-04-22 18:08:15 | INFO | 77429
+2019-04-22 18:08:15 | INFO | 77368
+2019-04-22 18:08:15 | INFO | 86054
+2019-04-22 18:08:15 | INFO | 77437
+2019-04-22 18:08:15 | INFO | 79051
+2019-04-22 18:08:15 | INFO | 77443
+2019-04-22 18:08:15 | INFO | 77435
+2019-04-22 18:08:15 | INFO | 77431
+2019-04-22 18:08:15 | INFO | 77441
+2019-04-22 18:08:15 | INFO | 77389
+2019-04-22 18:08:15 | INFO | 85077
+2019-04-22 18:08:15 | INFO | 77453
+2019-04-22 18:08:15 | INFO | 77450
+2019-04-22 18:08:15 | INFO | 81077
+2019-04-22 18:08:15 | INFO | 77453
+2019-04-22 18:08:15 | INFO | 77467
+2019-04-22 18:08:15 | INFO | 84304
+2019-04-22 18:08:17 | INFO | 76282
+2019-04-22 18:08:17 | INFO | 76239
+2019-04-22 18:08:18 | INFO | 75449
+2019-04-22 18:08:18 | INFO | 76461
+2019-04-22 18:08:20 | INFO | 76660
+2019-04-22 18:08:20 | INFO | 76274
+2019-04-22 18:08:20 | INFO | 81281
+2019-04-22 18:08:21 | INFO | 81485
+2019-04-22 18:08:22 | INFO | 98266
+2019-04-22 18:08:22 | INFO | 97987
+2019-04-22 18:08:22 | INFO | 76772
+2019-04-22 18:08:22 | INFO | 98749
+2019-04-22 18:08:22 | INFO | 98751
+2019-04-22 18:08:23 | INFO | 98719
+2019-04-22 18:08:23 | INFO | 99288
+2019-04-22 18:08:23 | INFO | 99245
+2019-04-22 18:08:24 | INFO | 77335
+2019-04-22 18:08:29 | INFO | 78159
+2019-04-22 18:08:29 | INFO | 77646
+2019-04-22 18:08:29 | INFO | 79649
+2019-04-22 18:08:29 | INFO | 78173
+2019-04-22 18:08:29 | INFO | 80247
+2019-04-22 18:08:29 | INFO | 80267
+2019-04-22 18:08:32 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:33 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:34 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:34 | INFO | 88102
+2019-04-22 18:08:34 | INFO | 87533
+2019-04-22 18:08:34 | INFO | 83630
+2019-04-22 18:08:34 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:34 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:34 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:34 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:34 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:34 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:35 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:36 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:08:43 | INFO | 91224
+2019-04-22 18:08:43 | INFO | 96662
+2019-04-22 18:08:43 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:43 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:43 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:45 | INFO | 97267
+2019-04-22 18:08:45 | INFO | 97310
+2019-04-22 18:08:45 | INFO | 96885
+2019-04-22 18:08:45 | INFO | 96937
+2019-04-22 18:08:45 | INFO | 97268
+2019-04-22 18:08:49 | INFO | 100878
+2019-04-22 18:08:49 | INFO | 100974
+2019-04-22 18:08:49 | INFO | 100918
+2019-04-22 18:08:49 | INFO | 100885
+2019-04-22 18:08:49 | INFO | 94429
+2019-04-22 18:08:49 | INFO | 94429
+2019-04-22 18:08:49 | INFO | 94429
+2019-04-22 18:08:49 | INFO | 94437
+2019-04-22 18:08:49 | INFO | 94429
+2019-04-22 18:08:49 | INFO | 94545
+2019-04-22 18:08:49 | INFO | 94529
+2019-04-22 18:08:49 | INFO | 94528
+2019-04-22 18:08:49 | INFO | 94527
+2019-04-22 18:08:49 | INFO | 94526
+2019-04-22 18:08:49 | INFO | 94526
+2019-04-22 18:08:49 | INFO | 94525
+2019-04-22 18:08:49 | INFO | 96403
+2019-04-22 18:08:49 | INFO | 95403
+2019-04-22 18:08:51 | INFO | 96265
+2019-04-22 18:08:51 | INFO | 96260
+2019-04-22 18:08:51 | INFO | 96255
+2019-04-22 18:08:51 | INFO | 96259
+2019-04-22 18:08:51 | INFO | 96269
+2019-04-22 18:08:51 | INFO | 96271
+2019-04-22 18:08:51 | INFO | 96258
+2019-04-22 18:08:51 | INFO | 96260
+2019-04-22 18:08:51 | INFO | 96265
+2019-04-22 18:08:51 | INFO | 96277
+2019-04-22 18:08:51 | INFO | 96272
+2019-04-22 18:08:51 | INFO | 96269
+2019-04-22 18:08:51 | INFO | 96257
+2019-04-22 18:08:51 | INFO | 96255
+2019-04-22 18:08:51 | INFO | 96254
+2019-04-22 18:08:51 | INFO | 96250
+2019-04-22 18:08:51 | INFO | 96259
+2019-04-22 18:08:51 | INFO | 96258
+2019-04-22 18:08:51 | INFO | 96266
+2019-04-22 18:08:51 | INFO | 96268
+2019-04-22 18:08:51 | INFO | 96258
+2019-04-22 18:08:51 | INFO | 96257
+2019-04-22 18:08:51 | INFO | 96257
+2019-04-22 18:08:51 | INFO | 96269
+2019-04-22 18:08:51 | INFO | 96202
+2019-04-22 18:08:51 | INFO | 96210
+2019-04-22 18:08:51 | INFO | 96221
+2019-04-22 18:08:56 | INFO | 100947
+2019-04-22 18:08:56 | INFO | 101125
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:08:56 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:00 | INFO | 103661
+2019-04-22 18:09:00 | INFO | 102756
+2019-04-22 18:09:00 | INFO | 102663
+2019-04-22 18:09:00 | INFO | 102782
+2019-04-22 18:09:00 | INFO | 102782
+2019-04-22 18:09:00 | INFO | 102620
+2019-04-22 18:09:00 | INFO | 102528
+2019-04-22 18:09:01 | INFO | 100938
+2019-04-22 18:09:01 | INFO | 101942
+2019-04-22 18:09:01 | INFO | 103199
+2019-04-22 18:09:02 | INFO | 92731
+2019-04-22 18:09:07 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:13 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:19 | INFO | 104245
+2019-04-22 18:09:21 | INFO | 115610
+2019-04-22 18:09:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:22 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:24 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:24 | INFO | 107046
+2019-04-22 18:09:26 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:27 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:28 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:30 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:31 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:32 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:32 | INFO | 112219
+2019-04-22 18:09:32 | INFO | 112212
+2019-04-22 18:09:32 | INFO | 112207
+2019-04-22 18:09:32 | INFO | 112273
+2019-04-22 18:09:32 | INFO | 112349
+2019-04-22 18:09:32 | INFO | 112290
+2019-04-22 18:09:32 | INFO | 112358
+2019-04-22 18:09:32 | INFO | 112335
+2019-04-22 18:09:32 | INFO | 112316
+2019-04-22 18:09:33 | INFO | 105661
+2019-04-22 18:09:33 | INFO | 105675
+2019-04-22 18:09:33 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:34 | INFO | 107059
+2019-04-22 18:09:34 | INFO | 107036
+2019-04-22 18:09:34 | INFO | 107029
+2019-04-22 18:09:34 | INFO | 107040
+2019-04-22 18:09:34 | INFO | 107053
+2019-04-22 18:09:34 | INFO | 106979
+2019-04-22 18:09:34 | INFO | 107050
+2019-04-22 18:09:34 | INFO | 107078
+2019-04-22 18:09:34 | INFO | 114051
+2019-04-22 18:09:34 | INFO | 113997
+2019-04-22 18:09:34 | INFO | 107053
+2019-04-22 18:09:34 | INFO | 113003
+2019-04-22 18:09:34 | INFO | 105999
+2019-04-22 18:09:34 | INFO | 107081
+2019-04-22 18:09:34 | INFO | 107069
+2019-04-22 18:09:34 | INFO | 107086
+2019-04-22 18:09:34 | INFO | 100186
+2019-04-22 18:09:34 | INFO | 107102
+2019-04-22 18:09:34 | INFO | 107120
+2019-04-22 18:09:34 | INFO | 107100
+2019-04-22 18:09:34 | INFO | 109037
+2019-04-22 18:09:34 | INFO | 107111
+2019-04-22 18:09:34 | INFO | 107110
+2019-04-22 18:09:34 | INFO | 107128
+2019-04-22 18:09:34 | INFO | 108042
+2019-04-22 18:09:34 | INFO | 107103
+2019-04-22 18:09:34 | INFO | 107140
+2019-04-22 18:09:34 | INFO | 107117
+2019-04-22 18:09:35 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:36 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:36 | INFO | 102029
+2019-04-22 18:09:36 | INFO | 96032
+2019-04-22 18:09:36 | INFO | 95008
+2019-04-22 18:09:36 | INFO | 109162
+2019-04-22 18:09:36 | INFO | 109152
+2019-04-22 18:09:36 | INFO | 109159
+2019-04-22 18:09:36 | INFO | 109134
+2019-04-22 18:09:36 | INFO | 109146
+2019-04-22 18:09:36 | INFO | 109133
+2019-04-22 18:09:36 | INFO | 109158
+2019-04-22 18:09:36 | INFO | 109172
+2019-04-22 18:09:37 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:38 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:39 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:40 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:40 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:42 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:44 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:45 | INFO | 103647
+2019-04-22 18:09:45 | INFO | 100647
+2019-04-22 18:09:45 | INFO | 104700
+2019-04-22 18:09:45 | INFO | 102658
+2019-04-22 18:09:45 | INFO | 98664
+2019-04-22 18:09:49 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:50 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:50 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:52 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:52 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:52 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:52 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:52 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:52 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:09:52 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:53 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:09:55 | INFO | 117137
+2019-04-22 18:09:55 | INFO | 117063
+2019-04-22 18:09:55 | INFO | 118143
+2019-04-22 18:09:55 | INFO | 116143
+2019-04-22 18:09:59 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:03 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:05 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:10:05 | ERROR | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2019-04-22 18:10:07 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:08 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:08 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:10 | INFO | 121327
+2019-04-22 18:10:11 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:12 | INFO | 122518
+2019-04-22 18:10:12 | INFO | 122700
+2019-04-22 18:10:12 | INFO | 121701
+2019-04-22 18:10:12 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:12 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:13 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:13 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:14 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:15 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:16 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:16 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:17 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:17 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:17 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:17 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:18 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:19 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:20 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:20 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:20 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:20 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:21 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:22 | INFO | 123515
+2019-04-22 18:10:22 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:22 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:22 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:22 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:22 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:23 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:24 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:25 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:25 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:25 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:25 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:26 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:26 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:26 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:26 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:26 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:26 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:27 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:27 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:27 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:29 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:29 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:29 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:37 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:37 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:37 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:37 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:40 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:41 | INFO | 127095
+2019-04-22 18:10:41 | INFO | 134138
+2019-04-22 18:10:41 | INFO | 130149
+2019-04-22 18:10:43 | INFO | 124529
+2019-04-22 18:10:43 | INFO | 124546
+2019-04-22 18:10:43 | INFO | 127538
+2019-04-22 18:10:43 | INFO | 121537
+2019-04-22 18:10:44 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:44 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:44 | INFO | 120369
+2019-04-22 18:10:44 | INFO | 129472
+2019-04-22 18:10:45 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:45 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
+2019-04-22 18:10:46 | ERROR | HTTPConnectionPool(host='10.142.0.3', port=80): Read timed out. (read timeout=120)
