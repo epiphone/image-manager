@@ -6,6 +6,7 @@
   "main": "dist/app.js",
   "scripts": {
     "all:build": "yarn typecheck && yarn clean && yarn resizer:build && yarn sqiper:build && yarn labeler:build",
+    "functions:update": "yarn resizer:update && yarn sqiper:update && yarn labeler:update",
     "resizer:build": "parcel build -t node -d src/resizer --no-source-maps src/resizer/handler.ts",
     "resizer:zip": "(cd src/resizer && zip -9 -x *.ts* -r resizer.zip .)",
     "resizer:push": "gsutil cp src/resizer/resizer.zip gs://imgmgr-functions",
@@ -58,6 +59,7 @@
     "@google-cloud/trace-agent": "^3.6.0",
     "@google-cloud/vision": "^0.25.0",
     "express": "^4.16.4",
+    "lqip": "^2.1.0",
     "multer": "^1.4.1",
     "sharp": "^0.22.0",
     "sqip": "^0.3.3"

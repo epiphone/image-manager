@@ -6,8 +6,8 @@ import multer from 'multer'
 import path from 'path'
 import { promisify } from 'util'
 import { getBucketFileLabels } from './label'
+import lqip from './lqip'
 import resize from './resize'
-import sqip from './sqip'
 
 const gcs = new Storage()
 const BUCKET_IMAGES = gcs.bucket('imgmgr-server-images')
@@ -71,25 +71,19 @@ app.post('/', uploads.single('image'), (req, res, next) => {
     })
   })
 
-  const sqipName = `sqip-${path.parse(req.file.filename).name}.svg`
-  const sqipPath = path.join(path.dirname(req.file.path), sqipName)
-  const sqipPromise = new Promise(resolve => {
-    const { final_svg } = sqip(req.file.path)
-    console.log('Generated SQIP')
-    resolve(final_svg)
-  })
-    .then(finalSvg => promisify(fs.writeFile)(sqipPath, finalSvg))
-    .then(() => {
-      console.log('Wrote local SQIP file')
-      return BUCKET_THUMBNAILS.upload(sqipPath, {
-        destination: sqipName,
-      })
+  const lqipName = `lqip-${req.file.filename}`
+  const lqipPath = path.join(path.dirname(req.file.path), lqipName)
+  const lqipPromise = lqip(req.file.path, lqipPath).then(() => {
+    console.log('Wrote local LQIP file')
+    return BUCKET_THUMBNAILS.upload(lqipPath, {
+      destination: lqipName,
     })
+  })
 
-  Promise.all([labelPromise, resizePromise, sqipPromise])
+  Promise.all([labelPromise, resizePromise, lqipPromise])
     .then(([[metadata]]) => {
       res.json({ status: 'ok', metadata })
-      const tempFilePaths = [req.file.path, thumbPath, sqipPath]
+      const tempFilePaths = [req.file.path, thumbPath, lqipPath]
       return Promise.all(tempFilePaths.map(tempFilePath => promisify(fs.unlink)(tempFilePath)))
     })
     .catch(error => next(error))
