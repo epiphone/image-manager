@@ -43,3 +43,13 @@ GOOGLE_APPLICATION_CREDENTIALS=/somepath/service-account-key.json yarn server:de
 # Upload an image file with httpie:
 http -f POST localhost:3000 image@~/Pictures/tiikeri.jpg
 ```
+
+## Utilities
+
+```bash
+# Clean up buckets:
+gsutil -m rm -r gs://imgmgr-server-images/** gs://imgmgr-server-thumbnails/** gs://imgmgr-server-sqips/** gs://imgmgr-images/** gs://imgmgr-thumbnails/**
+
+# List files in server buckets:
+gsutil -m ls gs://imgmgr-server-images/ gs://imgmgr-server-thumbnails/
+```
