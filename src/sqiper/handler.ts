@@ -2,6 +2,7 @@ import { Storage } from '@google-cloud/storage'
 import fs from 'fs'
 import os from 'os'
 import path from 'path'
+import { promisify } from 'util'
 import { CloudStorageObject, Context } from '../model'
 import sqip from '../sqip'
 
@@ -20,12 +21,8 @@ export async function sqiper(data: CloudStorageObject, context: Context) {
   const { final_svg } = sqip(tmpFilePath)
   const sqipName = `sqip-${path.parse(fileName).name}.svg`
   const sqipPath = path.join(TMP_DIR, sqipName)
-  fs.writeFile(sqipPath, final_svg, error => {
-    if (error) {
-      console.error('Writing SQIP file failed:', error)
-    }
-    return BUCKET_THUMBNAILS.upload(sqipPath, {
-      destination: sqipName,
-    })
+  await promisify(fs.writeFile)(sqipPath, final_svg)
+  return BUCKET_THUMBNAILS.upload(sqipPath, {
+    destination: sqipName,
   })
 }

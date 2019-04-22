@@ -4,6 +4,7 @@ import express from 'express'
 import fs from 'fs'
 import multer from 'multer'
 import path from 'path'
+import { promisify } from 'util'
 import { getBucketFileLabels } from './label'
 import resize from './resize'
 import sqip from './sqip'
@@ -72,22 +73,18 @@ app.post('/', uploads.single('image'), (req, res, next) => {
 
   const sqipName = `sqip-${path.parse(req.file.filename).name}.svg`
   const sqipPath = path.join(path.dirname(req.file.path), sqipName)
-  const sqipPromise = new Promise((resolve, reject) => {
+  const sqipPromise = new Promise(resolve => {
     const { final_svg } = sqip(req.file.path)
     console.log('Generated SQIP')
-    fs.writeFile(sqipPath, final_svg, error => {
-      if (error) {
-        console.error('Writing SQIP file failed:', error)
-        reject(error)
-      }
-      BUCKET_THUMBNAILS.upload(sqipPath, {
+    resolve(final_svg)
+  })
+    .then(finalSvg => promisify(fs.writeFile)(sqipPath, finalSvg))
+    .then(() => {
+      console.log('Wrote local SQIP file')
+      return BUCKET_THUMBNAILS.upload(sqipPath, {
         destination: sqipName,
-      }).then(([sqipFile]) => {
-        console.log('Uploaded SQIP to Cloud Storage')
-        resolve(sqipFile)
       })
     })
-  })
 
   Promise.all([labelPromise, resizePromise, sqipPromise])
     .then(([[metadata]]) => {
