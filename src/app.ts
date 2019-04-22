@@ -90,14 +90,7 @@ app.post('/', uploads.single('image'), (req, res, next) => {
     .then(([[metadata]]) => {
       res.json({ status: 'ok', metadata })
       const tempFilePaths = [req.file.path, thumbPath, sqipPath]
-      tempFilePaths.forEach(tempFilePath => {
-        fs.unlink(tempFilePath, rmError => {
-          if (rmError) {
-            console.error(rmError)
-          }
-          console.log('Deleted local file', tempFilePath)
-        })
-      })
+      return Promise.all(tempFilePaths.map(tempFilePath => promisify(fs.unlink)(tempFilePath)))
     })
     .catch(error => next(error))
 })
