@@ -44,11 +44,25 @@ GOOGLE_APPLICATION_CREDENTIALS=/somepath/service-account-key.json yarn server:de
 http -f POST localhost:3000 image@~/Pictures/tiikeri.jpg
 ```
 
+## IAM
+
+Serverless functions use a service account with the following roles:
+
+```
+Cloud Functions Developer
+Cloud Trace Agent
+Deployment Manager Editor
+Service Account User
+Logging Admin
+Monitoring Metric Writer
+Storage Admin
+```
+
 ## Utilities
 
 ```bash
 # Clean up buckets:
-gsutil -m rm -r gs://imgmgr-server-images/** gs://imgmgr-server-thumbnails/** gs://imgmgr-server-sqips/** gs://imgmgr-images/** gs://imgmgr-thumbnails/**
+gsutil -m rm -r gs://imgmgr-server-images/** gs://imgmgr-server-thumbnails/** gs://imgmgr-images/** gs://imgmgr-thumbnails/**
 
 # List files in server buckets:
 gsutil -m ls gs://imgmgr-server-images/ gs://imgmgr-server-thumbnails/
