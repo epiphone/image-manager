@@ -64,3 +64,4 @@ typings/
 /dist
 src/**/*.zip
 src/**/*.js
+load-test/requests.log

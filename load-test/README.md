@@ -10,4 +10,7 @@ python3 -m pip install --user pipenv
 pipenv install
 pipenv shell
 locust -H http://<imgmgr API address>
+
+# ...or load testing against the serverless deployment (-H parameter takes any URL):
+locust -H http://google.com -f serverless.py
 ```

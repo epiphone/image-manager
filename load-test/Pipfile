@@ -10,6 +10,7 @@ ipdb = "*"
 
 [packages]
 locustio = "*"
+google-cloud-storage = "*"
 
 [requires]
 python_version = "3.7"
