@@ -1,4 +1,4 @@
-require('@google-cloud/trace-agent').start()
+const tracer = require('@google-cloud/trace-agent').start()
 import { Storage } from '@google-cloud/storage'
 import express from 'express'
 import fs from 'fs'
@@ -64,7 +64,9 @@ app.post('/', uploads.single('image'), (req, res, next) => {
 
   const thumbName = `thumb${RESIZE_SIZE}-${req.file.filename}`
   const thumbPath = path.join(path.dirname(req.file.path), thumbName)
+  const resizeTrace = tracer.createChildSpan({ name: 'resize' })
   const resizePromise = resize(req.file.path, thumbPath, RESIZE_SIZE, RESIZE_SIZE).then(() => {
+    resizeTrace.endSpan()
     console.log('Resized image')
     return BUCKET_THUMBNAILS.upload(thumbPath, {
       destination: thumbName,
@@ -73,7 +75,9 @@ app.post('/', uploads.single('image'), (req, res, next) => {
 
   const lqipName = `lqip-${req.file.filename}`
   const lqipPath = path.join(path.dirname(req.file.path), lqipName)
+  const lqipTrace = tracer.createChildSpan({ name: 'lqip' })
   const lqipPromise = lqip(req.file.path, lqipPath).then(() => {
+    lqipTrace.endSpan()
     console.log('Wrote local LQIP file')
     return BUCKET_THUMBNAILS.upload(lqipPath, {
       destination: lqipName,
