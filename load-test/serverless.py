@@ -12,6 +12,7 @@ class UserBehavior(TaskSet):
         t0 = time.time()
         try:
             blob.upload_from_filename("./image.jpg")
+            time.sleep(2)  # eventual consistency workaround
             if not blob.exists():
                 raise Exception("Blob upload failed")
 
@@ -22,6 +23,7 @@ class UserBehavior(TaskSet):
                 response_length=0,
             )
         except Exception as e:
+            print(e)
             events.request_failure.fire(
                 request_type="google.cloud.storage",
                 name="upload_from_filename",
