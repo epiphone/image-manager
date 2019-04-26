@@ -1,18 +1,20 @@
 from google.cloud import storage
 from locust import HttpLocust, TaskSet, events, task
 import time
-
-BUCKET = storage.Client().get_bucket("imgmgr-images")
+import uuid
 
 
 class UserBehavior(TaskSet):
     @task()
     def upload_image_to_bucket(self):
-        blob = BUCKET.blob("image.jpg")
         t0 = time.time()
         try:
-            blob.upload_from_filename("./image.jpg")
-            time.sleep(2)  # eventual consistency workaround
+            bucket = storage.Client().get_bucket("imgmgr-images")
+            blob = bucket.blob(str(uuid.uuid4()) + "-image.jpg")
+            with open("./image.jpg", "rb") as f:
+                blob.upload_from_file(f, num_retries=6, content_type="image/jpg")
+
+            time.sleep(2)
             if not blob.exists():
                 raise Exception("Blob upload failed")
 
@@ -30,6 +32,7 @@ class UserBehavior(TaskSet):
                 response_time=int((time.time() - t0) * 1000),
                 exception=e,
             )
+            raise e
 
 
 class WebsiteUser(HttpLocust):
