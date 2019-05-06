@@ -8,18 +8,6 @@ IMAGE_FILE.close()
 FILES = {"image": ("image.jpg", IMAGE_DATA)}
 
 
-class UserBehavior(TaskSet):
-    @task()
-    def post_image(self):
-        self.client.post("/", files=FILES, timeout=120)
-
-
-class WebsiteUser(HttpLocust):
-    task_set = UserBehavior
-    min_wait = 3000
-    max_wait = 3000
-
-
 def create_logger():
     logger = logging.getLogger(__file__)
     file_handler = logging.FileHandler("requests.log", mode="w")
@@ -32,6 +20,19 @@ def create_logger():
 
 
 REQUEST_LOGGER = create_logger()
+
+
+class UserBehavior(TaskSet):
+    @task()
+    def post_image(self):
+        REQUEST_LOGGER.info("REQUEST")
+        self.client.post("/", files=FILES, timeout=120)
+
+
+class WebsiteUser(HttpLocust):
+    task_set = UserBehavior
+    min_wait = 3000
+    max_wait = 3000
 
 
 def on_request_success(request_type, name, response_time, **kw):
